@@ -4,7 +4,7 @@
  * User: USER
  * Date: 24.04.14
  * Time: 11:51
- * To change this template use File | Settings | File Templates.
+ * To change this template use File | Settings | File Templates. bla bal bla bla bla
 */
 // connect and login to FTP server
 $ftp_server = "demo.stronazen.pl";
